@@ -1,4 +1,4 @@
-package com.weibo.mylibrary.utils;
+package com.weibo.rxsuperhelper.utils;
 
 import io.reactivex.FlowableTransformer;
 import io.reactivex.ObservableTransformer;

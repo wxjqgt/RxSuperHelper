@@ -1,6 +1,6 @@
-package com.weibo.mylibrary.rxbus.annotation;
+package com.weibo.rxsuperhelper.rxbus.annotation;
 
-import com.weibo.mylibrary.rxbus.event.EventThread;
+import com.weibo.rxsuperhelper.rxbus.event.EventThread;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,9 +1,9 @@
-package com.weibo.mylibrary.rxbus;
+package com.weibo.rxsuperhelper.rxbus;
 
 import android.support.annotation.NonNull;
 
-import com.weibo.mylibrary.rxbus.annotation.Subscribe;
-import com.weibo.mylibrary.rxbus.event.EventThread;
+import com.weibo.rxsuperhelper.rxbus.annotation.Subscribe;
+import com.weibo.rxsuperhelper.rxbus.event.EventThread;
 
 import org.reactivestreams.Subscriber;
 import org.reactivestreams.Subscription;

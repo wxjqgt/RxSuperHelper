@@ -1,4 +1,4 @@
-package com.weibo.mylibrary.rxbus.event;
+package com.weibo.rxsuperhelper.rxbus.event;
 
 import io.reactivex.Scheduler;
 import io.reactivex.android.schedulers.AndroidSchedulers;
